@@ -1,5 +1,11 @@
 # 💫 About Me:
-My name is Anamika. I belong to Bihar, but I was born and brought up in Delhi. I completed my BCA from Bharati Vidyapeeth University, Delhi. Currently, I am pursuing my MCA from Galgotias University, Greater Noida.<br><br>I am a passionate Web Developer and Designer with expertise in **Frontend Development** (React.js, JavaScript ES6+, Tailwind CSS, HTML5/CSS3) and **AI Development Skills** (Prompt Engineering, AI Code Generation, AI Debugging, Agentic Workflows). I am currently working on my major project on Women’s Safety and Empowerment, and have completed internships at CodTech Solutions and Labmentix.<br><br>In addition, I am a semi-classical dancer, which helps me stay creative, disciplined, and confident in both my personal and professional life.
+My name is Anamika. I was born and brought up in Delhi. I completed my BCA from Bharati Vidyapeeth University, Delhi. Currently, I am pursuing my MCA from Galgotias University, Greater Noida.
+
+I am a passionate Web Developer and Designer with expertise in Frontend Development (React.js, Angular, JavaScript ES6+, Tailwind CSS, Bootstrap, HTML5/CSS3) and Backend Development (Node.js, Next.js, Django, Python). I also have strong AI Development Skills including Prompt Engineering, AI Code Generation, AI Debugging, and Agentic Workflows.
+
+I am currently working on my major project on Women’s Safety and Empowerment and have completed internships at CodTech Solutions, Labmentix, and Shree Laxmi Industries.
+
+In addition, I am a semi-classical dancer, which helps me stay creative, disciplined, and confident in both my personal and professional life.
 
 ### 🚀 **Check out my new Portfolio:** [anamika-pandey-portfolio.netlify.app](https://anamika-pandey-portfolio.netlify.app/)
 📄 **Resume:** [Available on my Portfolio](https://anamika-pandey-portfolio.netlify.app/)
