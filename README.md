@@ -19,7 +19,7 @@ In addition, I am a classical dancer, which helps me stay creative, disciplined,
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-Angular
+
 
 ### AI Development Skills
 *Prompt Engineering | AI Code Generation | AI Debugging | Agentic Workflows*
