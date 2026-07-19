@@ -47,7 +47,7 @@ const anamika = {
 - 👩‍💻 I've completed **multiple internships** in Frontend Development
 - 💬 Ask me about **React.js, JavaScript, HTML/CSS, Tailwind CSS**
 - 📫 Reach me at **anamika758287@gmail.com**
-- 🌐 Portfolio: [https://anamika-portfolio-navy.vercel.app/](https://anamika-portfolio-fhjex6zjf-anamika-pandey925s-projects.vercel.app/)
+- 🌐 Portfolio: [[https://anamika-portfolio-navy.vercel.app/](https://anamika-portfolio-fhjex6zjf-anamika-pandey925s-projects.vercel.app/)](https://anamika-portfolio-navy.vercel.app/)
 - ⚡ Fun fact: **Classical dance fuels my creativity & discipline in coding!**
 
 <br clear="both"/>
