@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anamika%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%26%20TypeScript%20%7C%20UI%2FUX%20%7C%20Digital%20Marketing&descFontSize=17&descAlignY=62&descAlign=50&animation=twinkling" width="100%" alt="Anamika Pandey Banner" />
+<!-- Custom Premium Banner -->
+<img src="https://raw.githubusercontent.com/anamika-pandey925/anamika-pandey925/main/banner.png" width="100%" alt="Anamika Pandey – Frontend Developer | React.js | UI/UX | Digital Marketing" />
 
 <!-- Dynamic Typing SVG Animation -->
 <a href="https://anamika-portfolio-navy.vercel.app/">
